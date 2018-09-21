@@ -1,0 +1,9 @@
+{
+  "videoRecord": false,
+  "videoDir": "build/cify/videos/",
+  "capabilities": {
+    "browser": {
+      "capability": "chrome"
+    }
+  }
+}

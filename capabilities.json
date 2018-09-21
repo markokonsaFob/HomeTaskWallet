@@ -1,0 +1,10 @@
+{
+  "set": {
+    "browser": [
+      {
+        "capability": "chrome",
+        "deviceName": "Local Chrome"
+      }
+    ]
+  }
+}
